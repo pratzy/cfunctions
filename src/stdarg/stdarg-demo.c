@@ -4,7 +4,6 @@
 #include <string.h>
 
 int main(int argc, char const *argv[]) {
-
   FILE *test_file = fopen("/tmp/stdio_test_file.txt", "w+");
 
   /**
